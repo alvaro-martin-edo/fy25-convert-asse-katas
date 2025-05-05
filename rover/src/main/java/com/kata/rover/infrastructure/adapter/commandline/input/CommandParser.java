@@ -28,7 +28,7 @@ public class CommandParser {
             case 'L' -> new RotateLeft();
             case 'R' -> new RotateRight();
             case 'M' -> new Move();
-            default -> null;
+            default -> throw new IllegalArgumentException("Invalid command: " + input);
         };
     }
 
