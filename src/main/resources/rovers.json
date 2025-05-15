@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rover1",
+    "plateau": "Mars",
+    "x": 1,
+    "y": 3,
+    "facing": "N"
+  },
+  {
+    "id": "rover2",
+    "plateau": "Venus",
+    "x": 5,
+    "y": 6,
+    "facing": "E"
+  },
+  {
+    "id": "rover3",
+    "plateau": "Jupiter",
+    "x": 0,
+    "y": 10,
+    "facing": "S"
+  },
+  {
+    "id": "rover4",
+    "plateau": "Mars",
+    "x": 4,
+    "y": 3,
+    "facing": "W"
+  },
+  {
+    "id": "rover5",
+    "plateau": "Venus",
+    "x": 8,
+    "y": 8,
+    "facing": "N"
+  },
+  {
+    "id": "rover6",
+    "plateau": "Jupiter",
+    "x": 10,
+    "y": 14,
+    "facing": "E"
+  }
+]

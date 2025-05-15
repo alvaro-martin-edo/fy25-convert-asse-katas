@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Mars",
+    "width": 10,
+    "height": 10,
+    "obstacles": [
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 3,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "name": "Venus",
+    "width": 15,
+    "height": 15,
+    "obstacles": [
+      {
+        "x": 5,
+        "y": 5
+      },
+      {
+        "x": 7,
+        "y": 8
+      }
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "width": 20,
+    "height": 20,
+    "obstacles": [
+      {
+        "x": 10,
+        "y": 10
+      },
+      {
+        "x": 12,
+        "y": 14
+      }
+    ]
+  }
+]
