@@ -4,6 +4,7 @@ import com.kata.rover.model.Plateau;
 import com.kata.rover.model.Position;
 
 public class Move implements Command {
+
     @Override
     public Position execute(Position position, Plateau plateau) {
         return plateau.resolvePosition(getNextTheoreticalPosition(position));
